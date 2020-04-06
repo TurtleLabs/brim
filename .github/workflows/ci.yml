@@ -3,41 +3,12 @@ name: Brim CI
 on: [push]
 
 jobs:
-  build:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        node-version: [12.x]
-        os: [macos-10.15, ubuntu-18.04, windows-2019]
-    steps:
-    - uses: actions/checkout@v2
-    - name: setup node version ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
-    - name: Cache node modules
-      uses: actions/cache@v1
-      env:
-        cache-name: cache-node-modules
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ matrix.node-version }}-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-build-${{ env.cache-name }}-${{ matrix.node-version }}-
-    - run: npm install --no-audit
-    - run: npm run format-check
-    - run: npm run build
-    - run: npm run lint
-    - run: npm run flow
-    - run: npm test -- --maxWorkers=2 --ci
-
   integration_test:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
         node-version: [12.x]
         os: [macos-10.15, ubuntu-18.04]
-    needs: build
     steps:
     - uses: actions/checkout@v2
     - name: setup node version ${{ matrix.node-version }}

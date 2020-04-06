@@ -12,3 +12,250 @@ Array [
   "x509-bg-color",
 ]
 `;
+
+exports[`Histogram tests histogram deep inspection 2`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 3`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 4`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 5`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 6`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 7`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 8`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 9`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 10`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 11`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 12`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 13`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 14`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 15`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 16`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 17`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 18`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 19`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
+
+exports[`Histogram tests histogram deep inspection 20`] = `
+Array [
+  "capture_loss-bg-color",
+  "conn-bg-color",
+  "dns-bg-color",
+  "files-bg-color",
+  "ssl-bg-color",
+  "stats-bg-color",
+  "weird-bg-color",
+  "x509-bg-color",
+]
+`;
